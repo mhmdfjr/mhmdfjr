@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Mohamad Fajar Nur Khasani and I'm 20 years old.<br>I'm a front end web developer. I studied Computer Science at University & Computer Networks in High School.<br>I have had a great interest in Technology & Arts since I was a child. I'm so excited to collaborate with you.
+My name is Mohamad Fajar Nur Khasani and I am a passionate Full-Stack Web Developer. I am currently pursuing a degree in computer science at university, after previously studying computer network engineering in high school. I have gained valuable experience through work, training, education, and organizational activities related to technology, especially programming. My early interest in technology has grown into a strong dedication to the field, and I am always excited to collaborate, learn, and create impactful digital solutions.
 
 
 ## 🌐 Socials:
